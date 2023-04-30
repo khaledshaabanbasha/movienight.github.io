@@ -127,7 +127,7 @@
               text-shadow: 0px 0px 50px #b8a6f4;
             }
             .container{
-                background-image: url("/images/mobile-back.png");
+                background-image: url("../images/mobile-back.png");
                 background-size: cover;
             }
           
@@ -174,7 +174,7 @@
                   text-shadow: 0px 0px 50px #b8a6f4;
                 }
                 .container{
-                    background-image: url("/images/mobile-back.png");
+                    background-image: url("../images/mobile-back.png");
                     background-size: cover;
                 }
               
